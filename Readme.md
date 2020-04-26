@@ -2,7 +2,7 @@
 
 A library for generating randomized texts.
 
-## Buiid
+## Build
 
 ```
 npm i && npm run build
